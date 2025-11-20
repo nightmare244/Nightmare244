@@ -1,5 +1,4 @@
 ## Hello World! I'm Nasrulloh 👋
-I'm a Junior Web Developer & Student at ARS University
 ![Nasrulloh](img/me.jpg)
 
 
