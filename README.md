@@ -3,45 +3,15 @@
 
 
 
-🌱 **Currently Learning:**  
-- Laravel Framework  
-- Modern Web Development (HTML, CSS, JavaScript, PHP)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,css,js,git,mysql)](https://skillicons.dev)
 
-👯 **Open to Collaborate On:**  
-- Web development projects  
-- Laravel-based applications  
-- UI/UX improvement and frontend integration  
+## Sosial Media: ## 
 
-🤔 **Looking for Help With:**  
-- Optimizing Laravel backend structure  
-- Clean architecture & best coding practices  
+ ![https://www.instagram.com/fielnies_nl?igsh=N3pxMXd3dnVld241](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+![https://www.linkedin.com/in/muhammad-nasrulloh-23b827373/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
 
-💬 **Ask Me About:**  
-- Web development basics  
-- Laravel fundamentals  
-- Building simple CRUD apps  
-
-📫 **How to Reach Me:**  
-- Email: *(nasrulalfatih7@gmail.com)*  
-- LinkedIn: *(https://www.linkedin.com/in/muhammad-nasrulloh-23b827373/)*  
-
-
-⚡ **Fun Fact:**  
-I enjoy experimenting with new tech stacks and learning something new every day!
 
 ---
-
-## 🛠 Tech Stack
-### Languages & Tools I Use
-- PHP  
-- Laravel  
-- JavaScript  
-- HTML & CSS  
-- MySQL  
-- Git & GitHub  
-
----
-
 
 ##  Projects I'm Working On
 - Portfolio Website  
@@ -51,4 +21,3 @@ I enjoy experimenting with new tech stacks and learning something new every day!
 ---
 
 Thanks for visiting! 😄  
-Feel free to explore my repositories.
