@@ -7,8 +7,9 @@
 
 ## Sosial Media: ## 
 
- ![https://www.instagram.com/fielnies_nl?igsh=N3pxMXd3dnVld241](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
-![https://www.linkedin.com/in/muhammad-nasrulloh-23b827373/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fielnies_nl/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-nasrulloh-23b827373/)
+
 
 
 ---
